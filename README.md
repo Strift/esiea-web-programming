@@ -23,7 +23,7 @@
 
 What should your project folder look like?
 
-### For Mr. CAZANOVE
+### Mr. CAZANOVE group (INT)
     .
     ├── node_modules/           
     ├── public/                 # Static files (see how to serve static files with Express)
@@ -37,7 +37,7 @@ What should your project folder look like?
     ├── REPORT.pdf              # See submission requirements
     └── server.js               # Node.js application entry point
 
-### For Mr. CHEREL
+### Mr. CHEREL group (FSI1, FSI2)
          
     ├── public/                 # Static files (see how to serve static files with Express)
     │   ├── stylesheets/        # CSS        
