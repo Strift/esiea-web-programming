@@ -30,13 +30,13 @@ What should your project folder look like?
     │   ├── css/                # CSS files
     │   ├── js/                 # Javascript files
     │   ├── index.html
-    │   └── ...                 # Other HTML files
-    ├── src/                    # Server-side code
-    │   └── ...                 
-    ├── index.js                # Node.js application entry point
+    │   └── ...                 # Other HTML files (if needed)
+    ├── src/                    # Server-side code (if needed)
+    │   └── ...      
     ├── MEMBERS.txt             # See submission requirements
-    ├── package.json
-    └── REPORT.pdf              # See submission requirements
+    ├── package.json           
+    ├── REPORT.pdf              # See submission requirements
+    └── server.js               # Node.js application entry point
 
 ## Report requirements
 
