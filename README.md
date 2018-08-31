@@ -29,8 +29,9 @@ What should your project folder look like?
     ├── public/                 # Static files (see how to serve static files with Express)
     │   ├── assets/             # Images, fonts, etc
     │   ├── css/                
-    │   ├── js/                
-    └── views/                  # HTML files
+    │   └── js/    
+    ├── src/                    # 
+    ├── views/                  # HTML files
     │   └── index.html          
     ├── MEMBERS.txt             # See submission requirements
     ├── package.json           
