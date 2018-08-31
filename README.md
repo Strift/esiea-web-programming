@@ -35,6 +35,7 @@ What should your project folder look like?
     │   └── ...                 
     ├── index.js                # Node.js application entry point
     ├── MEMBERS.txt             # See submission requirements
+    ├── REPORT.pdf              # See submission requirements
     └── package.json
 
 ## Report requirements
@@ -56,6 +57,7 @@ Les éléments essentiels (non exhaustifs) du rapport sont:
 CHEREL Louis
 CAZANOVE Laurent
 ```
+- Le rapport au **format PDF** doit être à la racine de votre dépôt avec le nom REPORT.pdf
 - Vous devez envoyer l'url de votre projet (sous la forme https://github.com/username/repository, pas de .git ni de gist !) ainsi que l'url de votre application déployée à louis.cherel@platypus.academy, avec l'objet suivant: ESIEA WEB 4A FSI1/FSI2/INT
 - L'email contenant l'URL du dépôt doit être envoyé *au plus tard* le *vendredi 7 septembre à 20h* pour FSI1 et INT, et le *vendredi 14 septembre à 20h* pour FSI2
 
