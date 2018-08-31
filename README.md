@@ -25,14 +25,12 @@ What should your project folder look like?
 
     .
     ├── node_modules/           
-    ├── public/                 # Client-side code
-    │   ├── assets/             # Application assets (images, fonts, etc)
-    │   ├── css/                # CSS files
-    │   ├── js/                 # Javascript files
-    │   ├── index.html
-    │   └── ...                 # Other HTML files (if needed)
-    ├── src/                    # Server-side code (if needed)
-    │   └── ...      
+    ├── public/                 # Static files (see how to serve static files with Express)
+    │   ├── assets/             # Images, fonts, etc
+    │   ├── css/                
+    │   ├── js/                
+    └── views/                  # HTML files
+    │   └── index.html          
     ├── MEMBERS.txt             # See submission requirements
     ├── package.json           
     ├── REPORT.pdf              # See submission requirements
