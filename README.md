@@ -15,7 +15,7 @@
 - User authentication (and registration if your application requires it)
 - [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) interactions with the server
 - Data persistence is optional: in-memory is good enough, but you can try to write to the file system (no database!)
-- Deployed on Google Cloud Platform or Glitch.io
+- Deployed on [Google Cloud Platform](https://cloud.google.com/) or [Glitch](https://glitch.com)
 
 > You will not need and should not use any other libraries. This means no jQuery!
 > jQuery is a Bootstrap dependency. So, if you are using Bootstrap you are free to include jQuery to make it work, but you should not call it by yourself.
