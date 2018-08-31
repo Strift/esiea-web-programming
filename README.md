@@ -30,7 +30,7 @@ What should your project folder look like?
     │   ├── assets/             # Images, fonts, etc
     │   ├── css/                
     │   └── js/    
-    ├── src/                    # 
+    ├── src/                    # Other server-side code (if needed)
     ├── views/                  # HTML files
     │   └── index.html          
     ├── MEMBERS.txt             # See submission requirements
