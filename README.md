@@ -23,6 +23,7 @@
 
 What should your project folder look like?
 
+### For Mr. CAZANOVE
     .
     ├── node_modules/           
     ├── public/                 # Static files (see how to serve static files with Express)
@@ -35,6 +36,20 @@ What should your project folder look like?
     ├── package.json           
     ├── REPORT.pdf              # See submission requirements
     └── server.js               # Node.js application entry point
+
+### For Mr. CHEREL
+         
+    ├── public/                 # Static files (see how to serve static files with Express)
+    │   ├── stylesheets/        # CSS        
+    │   ├── javascripts/        # Javascript
+    │   └── index.html          # Main page
+    ├── routes/
+    │   └── index.js            # Your routes (backend)
+    ├── MEMBERS.txt             # See submission requirements
+    ├── package.json           
+    ├── REPORT.pdf              # See submission requirements
+    └── app.js               # Node.js application entry point
+
 
 ## Report requirements
 
