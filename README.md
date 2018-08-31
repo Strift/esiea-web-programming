@@ -35,8 +35,8 @@ What should your project folder look like?
     │   └── ...                 
     ├── index.js                # Node.js application entry point
     ├── MEMBERS.txt             # See submission requirements
-    ├── REPORT.pdf              # See submission requirements
-    └── package.json
+    ├── package.json
+    └── REPORT.pdf              # See submission requirements
 
 ## Report requirements
 
