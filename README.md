@@ -73,6 +73,7 @@ CAZANOVE Laurent
 ```
 - Le rapport au **format PDF** doit être à la racine de votre dépôt avec le nom REPORT.pdf
 - Vous devez envoyer l'url de votre projet (sous la forme https://github.com/username/repository, pas de .git ni de gist !) ainsi que l'url de votre application déployée à louis.cherel@platypus.academy, avec l'objet suivant: ESIEA WEB 4A FSI1/FSI2/INT
+  - Ex: l'objet pour un étudiant du groupe FSI1: "ESIEA WEB 4A FSI1"
 - L'email contenant l'URL du dépôt doit être envoyé *au plus tard* le *vendredi 7 septembre à 20h* pour FSI1 et INT, et le *vendredi 14 septembre à 20h* pour FSI2
 
 > *NB*: le contenu des dépôts va être téléchargé et analysé automatiquement à l'heure exacte de la deadline + 1 minute. Ce téléchargement n'aura lieu qu'une seule fois et un oubli de votre part serait donc sanctionné par un *0*.
