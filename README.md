@@ -68,8 +68,8 @@ Les éléments essentiels (non exhaustifs) du rapport sont:
 - le rendu doit être effectué sur un dépôt github _public_
 - le nom des membres du projet doit être écrit dans un fichier MEMBERS.txt à la racine où chaque ligne respecte le format NOM Prénom (exemple ci-dessous)
 ```
-CHEREL Louis
-CAZANOVE Laurent
+DUPONT Bob
+DUPOND Léo
 ```
 - Le rapport au **format PDF** doit être à la racine de votre dépôt avec le nom REPORT.pdf
 - Vous devez envoyer l'url de votre projet (sous la forme https://github.com/username/repository, pas de .git ni de gist !) ainsi que l'url de votre application déployée à louis.cherel@platypus.academy, avec l'objet suivant: ESIEA WEB 4A FSI1/FSI2/INT
