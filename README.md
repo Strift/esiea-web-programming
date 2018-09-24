@@ -38,7 +38,7 @@ What should your project folder look like?
     ├── REPORT.pdf              # See submission requirements
     └── server.js               # Node.js application entry point
 
-### Mr. CHEREL groups (FSI1, FSI2)
+### Mr. CHEREL groups (FSI1, FSI2, CFA)
          
     ├── public/                 # Static files (see how to serve static files with Express)
     │   ├── stylesheets/        # CSS        
