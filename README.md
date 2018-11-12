@@ -41,8 +41,7 @@ What should your project folder look like?
 ### Mr. CHEREL groups (FSI1, FSI2, CFA)
          
     ├── public/                 # Static files (see how to serve static files with Express)
-    │   ├── stylesheets/        # CSS        
-    │   ├── javascripts/        # Javascript
+    │   ├── as you like here
     │   └── index.html          # Main page
     ├── routes/
     │   └── index.js            # Your routes (backend)
