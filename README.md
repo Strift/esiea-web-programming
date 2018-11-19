@@ -41,6 +41,7 @@ What should your project folder look like?
 ### Mr. CHEREL groups (FSI1, FSI2, CFA)
 A minima (d'autres dossiers peuvent être présents)
 ==> mais pas node_modules, se renseigner sur .gitignore
+
     ├── public/                 # Static files (see how to serve static files with Express)
     │   ├── as you like here
     │   └── index.html          # Main page
